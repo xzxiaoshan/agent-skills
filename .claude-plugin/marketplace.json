@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "utility-skills",
+      "name": "life-skills",
       "description": "生活服务类工具集，包含节假日查询、日历等实用技能",
       "source": "./",
       "strict": false,
@@ -19,8 +19,8 @@
       ]
     },
     {
-      "name": "dev-skills",
-      "description": "Skill 代码质量审查工具，包含代码审核、质量检查等开发者技能",
+      "name": "agent-skills",
+      "description": "Agent 技能相关工具集，包含 Skill 代码审查、Agent 开发辅助等技能",
       "source": "./",
       "strict": false,
       "skills": [
