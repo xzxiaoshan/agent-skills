@@ -123,7 +123,7 @@ $ python scripts/fetch_holidays.py --year 2026 --force
 正在从网络获取 2026 年节假日数据...
 找到通知：https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html
 正在获取通知内容...
-已缓存到：e:\code\workspace-temp\agent-skills\skills\china-holidays\assets\2026.md
+已缓存到：skills/china-holidays/assets/2026.md
 # 下方是通知原文内容
 ```
 
