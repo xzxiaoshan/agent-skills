@@ -10,12 +10,21 @@
   },
   "plugins": [
     {
-      "name": "china-holidays-plugin",
-      "description": "中国国家法定节假日查询工具",
+      "name": "utility-skills",
+      "description": "生活服务类工具集，包含节假日查询、日历等实用技能",
       "source": "./",
       "strict": false,
       "skills": [
         "./skills/china-holidays"
+      ]
+    },
+    {
+      "name": "dev-skills",
+      "description": "Skill 代码质量审查工具，包含代码审核、质量检查等开发者技能",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/skill-reviewer"
       ]
     }
   ]

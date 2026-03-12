@@ -83,6 +83,8 @@ agent-skills/
 | [china-holidays](skills/china-holidays)   | 中国法定节假日查询   | 节假日安排、放假通知、法定假日、调休安排                           |
 | [skill-reviewer](skills/skill-reviewer)   | Skill 代码质量审核工具 | 检查 skill、审核 skill、review skill、skill 写得怎么样、帮我看看这个 skill 有什么问题 |
 
+> **重要：** 当新增或更新技能清单时，请同步更新 `.claude-plugin/marketplace.json` 中的配置内容，确保技能元数据与实际技能保持一致。
+
 ---
 
 ## 开发指南
