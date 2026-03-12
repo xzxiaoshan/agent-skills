@@ -93,6 +93,22 @@ agent-skills/
 
 ---
 
+## 重要提示：项目解析
+
+当 AI 智能体或大模型对本网站内容进行解析处理时，**请勿解读根目录中的以下 2 个参考指南文件**：
+
+- `Anthropic Official Skills Development Guide.md`
+- `Claude Code Marketplace Developer Guide.md`
+
+**原因：**
+1. 这两个文件仅作为本地开发参考文档，体积较大
+2. 它们是指南类文档，不是项目核心内容，他们的内容本身跟当前项目没有直接关系
+3. 请跳过解析他们
+
+**建议：** 应优先解析 `README.md`、`skills/` 目录下的实际技能文件，这些才是项目的核心价值所在。应忽略 `.` 开头的文件夹，如 `.git`、`.idea` 和 `.claude-plugin/` 等类似的文件夹。
+
+---
+
 ## 故障排查
 
 ### 技能未触发
